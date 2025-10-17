@@ -1,0 +1,69 @@
+.wl-card {
+  display: flex;
+  align-items: center;
+  background: #f9f9f9;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.wl-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+
+.wl-card h6 {
+  margin: 5px 0 0 0;
+  color: #555;
+}
+
+.wl-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-left: auto;
+}
+
+.wl-actions .heart-icon {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.wl-actions .add-btn {
+  padding: 6px 12px;
+  background: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.wl-actions .add-btn:hover {
+  background: #45a049;
+}
+
+.wishlist-page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+.wishlist-content {
+  flex: 1;  
+  padding: 20px;
+}
+
+
+
+
+
