@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Electronics/static/css/main.d125db80.css",
-    "main.js": "/Electronics/static/js/main.c57955a0.js",
+    "main.js": "/Electronics/static/js/main.22d7c6cc.js",
     "static/media/television wireless.jpg": "/Electronics/static/media/television wireless.f61d46f1caa904fbff8e.jpg",
     "static/media/camera.jpg": "/Electronics/static/media/camera.59f7699207fa36817132.jpg",
     "static/media/speaker4.jpg": "/Electronics/static/media/speaker4.720c861dd8ab7770f4a2.jpg",
@@ -38,10 +38,10 @@
     "static/media/mobile.webp": "/Electronics/static/media/mobile.8ded121b382886d6d43f.webp",
     "index.html": "/Electronics/index.html",
     "main.d125db80.css.map": "/Electronics/static/css/main.d125db80.css.map",
-    "main.c57955a0.js.map": "/Electronics/static/js/main.c57955a0.js.map"
+    "main.22d7c6cc.js.map": "/Electronics/static/js/main.22d7c6cc.js.map"
   },
   "entrypoints": [
     "static/css/main.d125db80.css",
-    "static/js/main.c57955a0.js"
+    "static/js/main.22d7c6cc.js"
   ]
 }
